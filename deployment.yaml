@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: felipemgilioli/hello-app:62ada909aa837657d6361059336bcfa645660a56
+        image: felipemgilioli/hello-app:6ba4905f4bab47a6e8f894585f0a37f6deb36a1e
         ports:
         - containerPort: 80
